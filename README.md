@@ -1,1 +1,1 @@
-# maze
+# leemabari.maze
